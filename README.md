@@ -31,10 +31,3 @@ Advent of Cyber is your festive gateway into cyber security. Each day of this cy
 - [Day 24: You can't hurt SOC-mas, Mayor Malware!](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-24-you-cant-hurt-soc-mas-mayor-malware-310f03777cb2)
 
 
-
-
-
-
-
-
-   |   
