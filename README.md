@@ -3,6 +3,11 @@
 ## What is Advent of Cyber?
 Advent of Cyber is your festive gateway into cyber security. Each day of this cyber security event leading up to Christmas, you'll face new byte-size challenges that will test and expand your cyber security knowledge.
 
+## SKILLS LEARNED
+**`Penetration Testing`** **`Cloud Security`** **`Log Analysis
+`** **`Digital Forensics and Incident Response`** **`Web Application Pentesting`**
+
+
 ### URL: https://tryhackme.com/r/christmas
 
 - [Day 1: Maybe SOC-mas music, he thought, doesn't come from a store?](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-1-maybe-soc-mas-music-he-thought-doesnt-come-from-a-store-164c61cc8440)
